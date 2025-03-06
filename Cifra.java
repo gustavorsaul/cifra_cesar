@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class GsaulEpazRsardi
+public class Cifra
 {
 public static void main (String [] args)
 {
